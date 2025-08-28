@@ -1,4 +1,3 @@
-# jenkins-nodejs
 # Jenkins Node.js Docker Pipeline
 
 This project demonstrates how to build a Docker image for a Node.js application, tag it, and push it to **DockerHub** using **Jenkins**. This pipeline automates the process of deploying Node.js applications in a Docker container, making it easier to manage and scale applications.
